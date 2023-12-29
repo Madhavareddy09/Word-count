@@ -47,7 +47,9 @@ with open(fname,'r') as fp:
 ![image](https://github.com/Madhavareddy09/Word-count/assets/145742470/a4e48e0a-43f6-4a25-b2b8-1690acd0601f)
 
 <br>
-![image](https://github.com/Madhavareddy09/Word-count/assets/145742470/df8a4d06-e915-4eac-b09d-cfbaf4d00054)
+
+![image](https://github.com/Madhavareddy09/Word-count/assets/145742470/aff31307-0425-40e8-b36b-c8321dc05ca8)
+
 
 
 ## RESULT:
